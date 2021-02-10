@@ -74,7 +74,7 @@ You can view reports and graphs using the reports home page.
    ![logo](/img/33.png)
    ![logo](/img/34.png)
 ## About Team
-* Uğur ILGIN
+* Uğur ILGIN ( Project Supervisor , UI Designer and Programmer)
 * Emre ŞAHİN
 * Şeyda KOÇAK
 * Vildan ÖT
